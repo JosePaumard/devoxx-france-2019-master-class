@@ -10,7 +10,6 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>another-module</module>
         <module>katas-lambda-streams</module>
         <module>katas-craftsmanship</module>
     </modules>
